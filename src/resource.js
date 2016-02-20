@@ -1,5 +1,6 @@
 var res = {
     HelloWorld_png : "res/HelloWorld.png",
+    Bear: 'res/bear.plist',
 };
 
 var g_resources = [];
