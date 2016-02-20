@@ -1,6 +1,0 @@
-/frameworks
-.DS_Store
-CMakeLists.txt
-.cocos-project.json
-manifest.webapp
-project.json
